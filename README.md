@@ -58,7 +58,36 @@ I'm **Khizar Mehmood Cheema**, a **BS Data Science** student in my **3rd semeste
 
 ## 🚀 Featured Projects
 
-_Coming soon._
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🩺 [Breast Cancer Diagnosis ML](https://github.com/khizercheema78/breast-cancer-diagnosis-ml)
+End-to-end ML pipeline comparing 4 classifiers with recall-focused tuning.
+**99.1% test accuracy · 0.998 ROC-AUC**
+
+`Python` `scikit-learn` `Matplotlib`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛍️ [Customer Segmentation (RFM)](https://github.com/khizercheema78/customer-segmentation-rfm)
+RFM features + K-Means to find actionable marketing segments.
+**14% of customers → 58% of revenue**
+
+`pandas` `K-Means` `Silhouette`
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 [Retail Sales Insights Dashboard](https://github.com/khizercheema78/retail-sales-insights-dashboard)
+Interactive Streamlit dashboard with KPIs, trends, heatmaps and auto-written insights.
+
+`Streamlit` `Plotly` `pandas`
+
+</td>
+</tr>
+</table>
 
 ---
 

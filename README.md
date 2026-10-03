@@ -108,12 +108,6 @@ Interactive Streamlit dashboard with KPIs, trends, heatmaps and auto-written ins
   <img src="https://trophy.ryglcloud.net/?username=khizercheema78&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khizercheema78&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff" width="100%" alt="Activity graph"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">

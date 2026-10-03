@@ -136,3 +136,5 @@ Interactive Streamlit dashboard with KPIs, trends, heatmaps and auto-written ins
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:3d59a1,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
 </p>
+
+<p align="center">Lab 01 completed - Software Engineering Lab</p>

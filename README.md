@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="mailto:khizercheema78@gmail.com"><img src="https://img.shields.io/badge/Gmail-khizercheema78-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/khizer-cheema-769202294/"><img src="https://img.shields.io/badge/LinkedIn-Khizer%20Cheema-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/khizercheema78/"><img src="https://img.shields.io/badge/Instagram-khizercheema78-1a1b27?style=for-the-badge&logo=instagram&logoColor=f7768e" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=khizercheema78&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -127,6 +128,7 @@ Interactive Streamlit dashboard with KPIs, trends, heatmaps and auto-written ins
 ## 📫 Contact
 
 - **Email:** [khizercheema78@gmail.com](mailto:khizercheema78@gmail.com)
+- **LinkedIn:** [Khizer Cheema](https://www.linkedin.com/in/khizer-cheema-769202294/)
 - **Instagram:** [@khizercheema78](https://www.instagram.com/khizercheema78/)
 - **GitHub:** [@khizercheema78](https://github.com/khizercheema78)
 
